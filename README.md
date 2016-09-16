@@ -2,7 +2,7 @@ This is an updated MultipartPostHandler that works with python 3, forked from
 version 0.1.0.
 
 Usage:
-import MultipartPostHandler-py3
+import MultipartPostHandler
 opener = urllib.request.build_opener(MultipartPostHandler-py3.MultipartPostHandler)
 
 Enables the use of multipart/form-data for posting forms
